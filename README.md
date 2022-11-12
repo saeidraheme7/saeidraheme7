@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
--git config --global user.email "you@example.com"
--git config --global user.name "Your Name"
+-git config --global user.email "saeidrahymy@gmail.com"
+-git config --global user.name "saeid"
 
 
 <!---
